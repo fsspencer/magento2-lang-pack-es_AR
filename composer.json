@@ -1,0 +1,25 @@
+{
+    "name": "fsspencer/magento2-lang-pack-es_AR",
+    "description": "Spanish (Argentina) language",
+    "type": "magento2-language",
+    "version": "0.1.0",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Francis S. Spencer",
+            "email": "francis.s.spencer@gmail.com",
+            "homepage": "http://www.codealist.net/"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "magento/framework": "100.*"
+    }
+}
