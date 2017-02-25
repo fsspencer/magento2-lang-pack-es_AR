@@ -9,7 +9,7 @@ The package works with Magento 2.0.x and 2.1.x.
 
 ### Installation
 
-1. From the terminal run: composer require fsspencer/magento2-lang-pack-es_AR
+1. From the terminal run: composer require "fsspencer/magento2-lang-pack-es_ar:*"
 2. php bin/magento setup:static-content:deploy
 3. php bin/magento cache:clean
 
